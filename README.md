@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Shahina Sheikh
 
-### Junior Software Developer (Freelance)
+### Software Developer (Freelance)
 
 ### PHP • Laravel • MERN Stack • MySQL • JavaScript
 
@@ -33,7 +33,7 @@ I'm a passionate Full Stack Developer who enjoys building scalable web applicati
 
 <p align="left">
 
-<a href="YOUR_RESUME_LINK">
+<a href="https://portfolio-project-d9c4.onrender.com/assets/Shahina-DJ7NVxot.pdf">
 <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
 </a>
 
@@ -41,7 +41,7 @@ I'm a passionate Full Stack Developer who enjoys building scalable web applicati
 <img src="https://img.shields.io/badge/Portfolio-009688?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/shahina-sheikh/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
@@ -51,11 +51,11 @@ I'm a passionate Full Stack Developer who enjoys building scalable web applicati
 
 # 🌍 Connect With Me
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/shahina-sheikh/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:sonashekhu09@gmail">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
 </a>
 
