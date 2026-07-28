@@ -1,4 +1,13 @@
-## Hi there 👋
+👋 Hi, I'm Shahina Sheikh
+
+Software Developer (Freelance)
+
+PHP • Laravel • MERN Stack • MySQL / Open to Work
+
+Currently working with a UK client on Warehouse Management System (WMS)
+Building scalable web applications & solving real-world business problems
+
+
 
 <!--
 **Inshiya1904/Inshiya1904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
