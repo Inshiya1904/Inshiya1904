@@ -103,64 +103,82 @@ Worked on multiple real-world projects.
 | REST API | Tailwind CSS | | Linux |
 
 ---
-
 # 🚀 Featured Projects
 
-## 🌐 Portfolio Website
+## 📊 BlackCoffer Dashboard
 
-Personal portfolio showcasing my projects and experience.
+Interactive dashboard for visualizing business insights using charts and filters.
 
-**Tech Stack**
+**Tech Stack:** React • Node.js • MongoDB • Charts
 
-- React
-- Tailwind CSS
+🔗 **GitHub:** https://github.com/Inshiya1904/BlackCoffer-Dashboard
 
-🔗 Live
-
-https://portfolio-project-d9c4.onrender.com/
-
----
-
-## 🍔 Food Delivery App
-
-MERN Stack
-
-- Authentication
-- Admin Panel
-- Cart
-- Orders
-
----
-
-## 🤖 MERN AI App
-
-AI-powered application using OpenAI APIs.
-
----
-
-## ✅ Task Manager
-
-Task management application with CRUD functionality.
+🌐 **Live Demo:** https://blackcoffer-dashboard-hh6p.onrender.com
 
 ---
 
 ## 🧠 Mental Wellness Landing Page
 
-Responsive Landing Page
+A responsive MERN landing page with a modern UI, smooth navigation, and contact form.
 
-React + Tailwind
+**Tech Stack:** React • Node.js • MongoDB
+
+🔗 **GitHub:** https://github.com/Inshiya1904/MetalWellness-Lendingpage-MERN
+
+🌐 **Live Demo:** https://metalwellness-lendingpage-mern-1.onrender.com/
+
+---
+
+## 🛒 E-Commerce Website
+
+Complete e-commerce application with authentication, cart, checkout, and product management.
+
+**Tech Stack:** React • Node.js • MongoDB
+
+🔗 **GitHub:** https://github.com/Inshiya1904/E-Commerce
+
+🌐 **Live Demo:** https://foreverbuy.in
 
 ---
 
-## ▶ YouTube Clone
+## 🚚 Air Cargo Shipment Tracking
 
-React
+Professional shipment tracking landing page developed for a UK logistics company.
 
-API Integration
+**Tech Stack:** PHP • JavaScript • HTML • CSS
 
-Responsive UI
+🔒 **Source Code:** Private Repository
+
+🌐 **Live Demo:** https://demo-tracking.mdf-solutions.co.uk
 
 ---
+
+## 🍔 Food Delivery App
+
+Online food ordering application with responsive UI, authentication, and cart system.
+
+**Tech Stack:** React • Node.js • MongoDB
+
+🔗 **GitHub:** https://github.com/Inshiya1904/Food-Delivery-Application
+
+🌐 **Live Demo:** https://food-delivery-application-frontend.onrender.com
+
+---
+
+## ✅ Task Manager
+
+Task management application with authentication and CRUD operations.
+
+**Tech Stack:** React • Node.js • MongoDB
+
+🔗 **GitHub:** https://github.com/Inshiya1904/Task-Manager-Tool
+
+🌐 **Live Demo:** https://taskflow-frontend-6swl.onrender.com
+
+---
+
+
+
 
 # 📊 GitHub Stats
 
